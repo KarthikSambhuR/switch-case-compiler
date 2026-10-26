@@ -1,4 +1,4 @@
-# Switch Statement Compiler
+# Switch Statement Compiler 
 
 A compiler front-end for C-style `switch`, `case`, `default`, and `break` statements. The project performs lexical analysis, syntax analysis, AST construction, compile-time constant expression evaluation, case-label syntax validation, and duplicate constant case label detection. It is validation-only: it validates syntax and semantics without needing code execution.
 
